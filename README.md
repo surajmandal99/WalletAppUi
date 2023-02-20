@@ -7,7 +7,7 @@
 link for the widget
 # https://pub.dev/packages/smooth_page_indicator
 
-Screenshot  of the ui 
+Screenshot  of the ui ..
 
        👇
 
